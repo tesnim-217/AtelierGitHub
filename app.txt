@@ -1,1 +1,2 @@
 Première version - Projet GitHub
+Version2 - Ajout d'une nouvelle fonctionnalité
